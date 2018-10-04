@@ -1,3 +1,0 @@
-# HTMLCSS
-
-Cours de HTML/CSS
